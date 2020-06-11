@@ -1,6 +1,6 @@
 {
   "name": "wertyu-ext-data-dictionary",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Visualize and export the data dictionary extracted from the knowledge built by Wertyu.",
   "main": "index.js",
   "repository": "https://github.com/felipenmoura/wertyu-ext-data-dictionary",
