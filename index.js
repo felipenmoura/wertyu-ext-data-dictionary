@@ -11,7 +11,7 @@ module.exports = {
   panel: {
     name: "Data Dictionary",
     description: "Your entitie's structure is described in a Data Dictionary",
-    icon: './sidebar-icon.png',
+    icon: './icon.png',
     content: './panel.html'
   }
 };
